@@ -1,0 +1,8 @@
+{
+  "name": "Solid Pocket",
+  "short_name": "Solid Pocket",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/",
+  "display": "standalone"
+}
